@@ -1,4 +1,4 @@
-# Tugas Masdeka – Laravel REST API
+– Laravel REST API
 
 Project ini adalah **backend REST API menggunakan Laravel 12**  
 yang dibuat untuk keperluan **tugas / pembelajaran fullstack**.
